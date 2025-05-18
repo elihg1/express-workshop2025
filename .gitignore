@@ -102,6 +102,3 @@ dist
 
 # TermJS port file
 .term-port
-
-# Ignore UI
-Pokedex/
